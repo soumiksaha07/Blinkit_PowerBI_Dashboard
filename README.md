@@ -1,10 +1,12 @@
 # Blinkit_PowerBI_Dashboard
-**Blinkit Sales Analysis**
+## Blinkit Sales Analysis
 
 **Summary:** <br/>
 Developed a Power BI dashboard for Blinkit, providing insights on key business metrics including sales revenue, customer ratings, and product performance. Enhanced data-driven decision-making by analyzing sales distribution, outlet establishment trends, and the impact of product attributes on sales.
 
-🔍 **Key Features of the Dashboard:** <br>
+**Play with the live dashboard here [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMmUxMmI4MzctNDlmYy00YzViLWI4OWMtZmU2Mjg1ODg4Njc5IiwidCI6IjYwMzM3M2YyLWIwOTctNGZhMS05MjRlLTUwZGMwOTI4NDYyMCJ9)**
+
+**Key Features of the Dashboard:** <br>
 
 - **Total Sales Revenue:** Achieved $1.20M in sales. <br>
 - **Average Rating:** Maintained a strong customer satisfaction with an average rating of 3.92.<br>
